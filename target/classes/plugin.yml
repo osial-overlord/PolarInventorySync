@@ -1,0 +1,7 @@
+name: PolarInventorySync
+version: '1.0.0'
+main: org.polar.polarinventorysync.PolarInventorySync
+api-version: 1.13
+authors: [ Baguette ]
+description: Polar Inventory Sync ensures Inventories are consistent upon all server instances.
+website: www.polarnetwork.net

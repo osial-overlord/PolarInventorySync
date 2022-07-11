@@ -1,0 +1,7 @@
+org\polar\polarinventorysync\util\NBTEditor$NBTCompound.class
+org\polar\polarinventorysync\data\DataHandler.class
+org\polar\polarinventorysync\util\NBTEditor$MinecraftVersion.class
+org\polar\polarinventorysync\util\NBTEditor.class
+org\polar\polarinventorysync\util\NBTEditor$Type.class
+org\polar\polarinventorysync\listener\ConnectionListener.class
+org\polar\polarinventorysync\PolarInventorySync.class
